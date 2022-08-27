@@ -124,7 +124,7 @@ function drawColorCircle(pCenter, myDiam) {
     opp = Math.sin(angleRad) * 1;
     adj = Math.cos(angleRad) * 1;
 
-    for (mySaturation = 1; mySaturation <= 100; mySaturation++) {
+    for (mySaturation = 0; mySaturation <= 100; mySaturation++) {
       myColor = color(myHue, mySaturation, 100);
       stroke(myColor);     
 
