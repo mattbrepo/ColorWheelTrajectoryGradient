@@ -8,6 +8,11 @@ A study on the color wheel and the gradient derived by interpolating three color
 ## Why
 A study on the color wheel done by using the [p5.js library](https://p5js.org/). Three points are defined over the color wheel: the start, the middle and the end. A gradient bar is drawn by interpolating the three colors.
 
+A HSV (hue, saturation, value = brightness) cylindrical representation of the color wheel:
+
+![Example](/images/color_wheel.jpg)
+
+
 ## Example
 
 Colors:
