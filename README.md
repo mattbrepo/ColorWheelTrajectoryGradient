@@ -13,7 +13,7 @@ A HSV (hue, saturation, value = brightness) cylindrical representation of the co
 ![Example](/images/color_wheel.jpg)
 
 
-## Example
+## Example blue - yellow - red
 
 Colors:
 - start: blue
@@ -22,6 +22,8 @@ Colors:
 
 ![Example](/images/example1.jpg)
 
+## Example blue - green - yellow
+
 Colors:
 - start: blue
 - middle: green
@@ -29,6 +31,6 @@ Colors:
 
 ![Example](/images/example2.jpg)
 
-Three shades of blue:
+## Example with three shades of blue
 
 ![Example](/images/example3.jpg)
