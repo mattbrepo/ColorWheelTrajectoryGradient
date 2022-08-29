@@ -6,9 +6,9 @@ A study on the color wheel and the gradient derived by interpolating three color
 **Start: 2022**
 
 ## Why
-A study on the color wheel done by using the [p5.js library](https://p5js.org/). Three points are defined over the color wheel: the start, the middle and the end. Two gradient bars and related color trajectories are drawn by interpolating the three colors. The interpolation is performed by RGB and by Hue.
+I needed to study how RGB and hue interpolation behaved on the color wheel. I decided to try out the [p5.js library](https://p5js.org/). Three points are defined over the color wheel: the start, the middle and the end. The trajectories and gradient bars are drawn by interpolating the three colors by both RGB and hue.
 
-A HSV (hue, saturation, value = brightness) cylindrical representation of the color wheel:
+It is useful to keep in mind the [HSV (hue, saturation, value = brightness)](https://en.wikipedia.org/wiki/HSL_and_HSV) system. Here is a HSV cylinder:
 
 ![Example](/images/color_wheel.jpg)
 
