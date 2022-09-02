@@ -12,7 +12,7 @@ It is useful to keep in mind the [HSV (hue, saturation, value = brightness)](htt
 
 ![Example](/images/color_wheel.jpg)
 
-Also a set of very simple observations:
+A couple of observations:
 - RGB is based on three bytes (red, green and blue) and all together can represent 16 million of colors (many of which are indistinguishable to the naked eye)
 
 $$ 256^3 = 2^{24} = 16,777,216 $$
