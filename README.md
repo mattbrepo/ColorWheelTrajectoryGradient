@@ -1,12 +1,12 @@
 # ColorWheelTrajectoryGradient
-A study on the color wheel and the gradient derived by interpolating three colors
+A study on the color wheel and the gradient derived by interpolating three colors.
 
 **Language: Javascript**
 
 **Start: 2022**
 
 ## Why
-I needed to study how RGB and hue interpolations behave. I decided to try out the [p5.js library](https://p5js.org/) for this. The idea is to define three colors (the start, the middle and the end), identify them as points on the color wheel and draw a trajectory passing through them. Also, a gradient bar is drawn by using the interpolated colors. 
+I needed to study how RGB and hue interpolations behave. I decided to try out the [p5.js library](https://p5js.org/) for this. The idea is to define three colors (the start, the middle and the end), identify them as points on the color wheel and draw a trajectory passing through them. Also, a gradient bar is drawn by using the interpolated colors.
 
 It is useful to keep in mind the [HSV (hue, saturation, value = brightness)](https://en.wikipedia.org/wiki/HSL_and_HSV) system. Here is a HSV cylinder:
 
